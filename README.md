@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelvin Sibuta
-- 👀 I’m interested in Linux, Python, SQL, AWS, DevOps, Data Science
-- 🌱 I’m currently learning Software Development, SQL, Python, AWS, and Linux
-- 💞️ I’m looking forward to collaborate on website and Application Development, Devops, Data Analysis, Biomedical Research and AWS cloud projects
+- 👀 I’m interested in Bioinformatics, AWS, DevOps, Data Science
+- 🌱 I’m currently learning Software Engineering Back-End Web Development
+- 💞️ I’m looking forward to collaborate on website and Application Development, Devops, Data Analysis, Bioinformatics and AWS cloud projects
 - 📫 kelvinsibuta254@gmail.com/kelvinsibuta@gmail.com
 
 <!---
